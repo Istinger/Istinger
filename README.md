@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Istinger](https://github.com/Istinger)
 
-- ⚡ Fun fact **I forgot things, as things come easily and easily goes**
+- ⚡ Fun fact **I forgot things, as they come easily and easily go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
