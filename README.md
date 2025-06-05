@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **SQL, DEVOPS , Linux**
+- 🌱 I’m currently learning **SQL language, DEVOPS architecture, ArchLinux enviroment**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
