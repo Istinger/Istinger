@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jossue Proaño and I'm a passionate developer from Ecuador</h2>
+<h2 align="left">Hi 👋! My name is Jossue Proaño and I love learning</h2>
 
 ###
 
